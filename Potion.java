@@ -1,8 +1,3 @@
-package assignment4;
-// Kelvin Bhual
-// Corey Pittman
-// COP3330-0004
-
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -169,5 +164,6 @@ public class Potion {
 		input.close();
 	}
 }
+
 
 
