@@ -1,8 +1,3 @@
-package assignment4;
-// Kelvin Bhual
-// Corey Pittman
-// COP3330-0004
-
 public class Ingredient {
 	// Declare variables
 	private String name;
@@ -24,3 +19,4 @@ public class Ingredient {
 		return power;
 	}
 }
+
